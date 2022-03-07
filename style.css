@@ -1,0 +1,11 @@
+header{
+    background: #bbbbbb;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px 0px;
+}
+nav li{
+    display: inline-block;
+    top: 110px;
+    right: 0;
+}
