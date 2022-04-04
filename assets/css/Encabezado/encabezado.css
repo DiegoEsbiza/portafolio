@@ -1,0 +1,10 @@
+.encabezado{
+	align-items: center;
+	display: flex;
+	font-family: Raleway, cursive;
+	justify-content: space-between;
+	padding: 0 2rem 0 2rem;	
+}
+h1{
+	font-size: 1rem;
+}
